@@ -85,17 +85,6 @@ A compatible real-world dataset: [Online Retail Dataset on Kaggle](https://www.k
 
 ---
 
-## Deploying (Free)
-
-1. Push this repo to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) and sign in
-3. Click **New app** → select your repo → set main file to `app.py`
-4. Click **Deploy**
-
-Your app will be live at a public URL in under a minute.
-
----
-
 ## Project Structure
 
 ```
